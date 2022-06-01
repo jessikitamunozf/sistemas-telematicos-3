@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Archivo general editado por Jessica
+=======
+Archivo general editado por Junnier
+>>>>>>> Junnier
