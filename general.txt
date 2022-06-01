@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Aqui escribio Marlon
+=======
+
+
+aqui escribio Junnier
+>>>>>>> Junnier
