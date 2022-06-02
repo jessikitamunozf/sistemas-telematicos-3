@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Archivo general editado por Jessica
 =======
 Archivo general editado por Junnier
 >>>>>>> Junnier
+=======
+Archivo general editado por Marlon
+>>>>>>> Marlon
